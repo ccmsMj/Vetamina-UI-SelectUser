@@ -1,0 +1,57 @@
+.logo {
+  height: 60vmin;
+  margin-top: -150px;
+  margin-left: 650px;
+  margin-right: 10px;
+}
+.paw {
+  height: 60vmin;
+  margin-top: -200px;
+  margin-left: 250px;
+}
+.picture {
+  flex-direction: column;
+  height: 50vmin;
+  margin-top: -250px;
+  margin-left: 200px;
+  margin-right: -250px;
+  padding-left: 10%;
+  padding-bottom: 10px;
+}
+.button1{
+  color: #fff;
+  background-color: #6DA916;
+  border-color: #fff;
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 515px;
+  margin-right: -200px;
+  letter-spacing: 0.8px;
+  padding: .9rem 2rem;
+  border-radius: 20px;
+}
+.button2{
+  color: #000000;
+  background-color: #B4F283;
+  border-color: #fff;
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: -20px;
+  margin-left: 475px;
+  margin-right: -250px;
+  letter-spacing: 0.8px;
+  padding: .9rem 2rem;
+  border-radius: 20px;
+}
+.select{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  color: #6DA916;
+  font-weight: 700;
+  font-size: 50px;
+}
