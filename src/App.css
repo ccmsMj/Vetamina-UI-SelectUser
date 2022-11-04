@@ -1,13 +1,13 @@
 .logo {
   height: 60vmin;
-  margin-top: -150px;
+  margin-top: -200px;
   margin-left: 650px;
   margin-right: 10px;
 }
 .paw {
   height: 60vmin;
-  margin-top: -200px;
-  margin-left: 250px;
+  margin-top: -120px;
+  margin-left: 1500px;
 }
 .picture1 {
   flex-direction: column;
@@ -106,6 +106,7 @@
   justify-content: center;
   align-items: center;
   margin-top: 50px;
+  margin-bottom: -200px;
   color: #6DA916;
   font-weight: 700;
   font-size: 50px;

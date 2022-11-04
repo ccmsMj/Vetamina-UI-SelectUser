@@ -10,7 +10,7 @@ import Button from 'react-bootstrap/Button';
 function App() {
   return (
     <div>
-        <img src={logo} className="logo" alt="logo" />
+        <a className='select'>Select type of User</a>
         <img src={paw} className="paw" alt="paw" />
         <img src={admin} className="picture1" alt="admin" />
         <img src={owner} className="picture2" alt="owner" />
@@ -21,7 +21,8 @@ function App() {
         <Button variant="success" className="button3">EMPLOYEE</Button>
         <Button variant="success" className="button4">VETERINARIAN</Button>
       
-        <a className='select'>Select type of User</a>
+        <img src={logo} className="logo" alt="logo" />
+       
   
     </div>
   );
